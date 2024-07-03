@@ -1,263 +1,321 @@
 [
-    {
-        "id": "gpt-4",
-        "label": "GPT-4",
-        "description": "GPT-4 is a highly capable AI model developed by OpenAI, offering advanced natural language processing capabilities.",
-        "files": [
-            {
-                "name": "gpt-4.webp"
-            }
-        ],
-        "models": [
-            "gpt-4",
-            "gpt-4-turbo",
-            "gpt-4-32k",
-            "gpt-4-1106-preview",
-            "gpt-4-0125-preview",
-            "gpt-4-vision-preview",
-            "gpt-4-turbo-preview"
-        ]
-    },
-    {
-        "id": "gpt-3.5",
-        "label": "GPT-3.5",
-        "description": "GPT-3.5 is a powerful language model developed by OpenAI, known for its ability to generate human-like text.",
-        "files": [
-            {
-                "name": "gpt-35.webp"
-            }
-        ],
-        "models": [
-            "gpt-3.5-turbo",
-            "gpt-3.5-turbo-16k",
-            "gpt-3.5-turbo-1106",
-            "gpt-3.5-turbo-0125"
-        ]
-    },
-    {
-        "id": "gemini",
-        "label": "Gemini",
-        "description": "Gemini is an AI model developed by Google, designed for conversational AI applications.",
-        "files": [
-            {
-                "name": "gemini.png"
-            }
-        ],
-        "models": [
-            "gemini-1.5-pro-latest",
-            "gemini-ultra",
-            "gemini-pro",
-            "gemini-pro-vision"
-        ]
-    },
-    {
-        "id": "llama",
-        "label": "LLaMA",
-        "description": "LLaMA is an open-source large language model developed by Facebook AI, known for its efficiency and performance.",
-        "files": [
-            {
-                "name": "llama.png"
-            }
-        ],
-        "models": [
-            "codellama-70b-instruct",
-            "codellama-34b-instruct",
-            "llama-3-8b-instruct:extended",
-            "llama-3-70b-instruct:nitro"
-        ]
-    },
-    {
-        "id": "mistral",
-        "label": "Mistral",
-        "description": "Mistral is an AI model developed by Mistral AI, offering advanced language understanding and generation capabilities.",
-        "files": [
-            {
-                "name": "mistralai.png"
-            }
-        ],
-        "models": [
-            "mixtral-8x22b",
-            "mistral-7b-instruct",
-            "mistral-large",
-            "mistral-tiny",
-            "mistral-small",
-            "mistral-medium"
-        ]
-    },
-    {
-        "id": "claude",
-        "label": "Claude",
-        "description": "Claude is an AI assistant developed by Anthropic, designed for engaging conversations and task assistance.",
-        "files": [
-            {
-                "name": "claude.webp"
-            }
-        ],
-        "models": [
-            "claude-3-opus-20240229",
-            "claude-3-sonnet-20240229",
-            "claude-3-haiku-20240307",
-            "claude-2.1",
-            "claude-2",
-            "claude-1",
-            "claude-instant-1",
-            "claude-instant-1.2"
-        ]
-    },
-    {
-        "id": "azure-openai",
-        "label": "Azure OpenAI",
-        "description": "Azure OpenAI is a cloud-based platform that provides access to OpenAI models, enabling developers to build AI-powered applications.",
-        "files": [
-            {
-                "name": "azureopenai.png"
-            }
-        ]
-    },
-    {
-        "id": "bing",
-        "label": "Bing Chat",
-        "description": "Bing Chat is a conversational AI model developed by Microsoft, designed for chat applications.",
-        "files": [
-            {
-                "name": "bing.svg"
-            }
-        ]
-    },
-    {
-        "id": "pi",
-        "label": "Pi AI",
-        "description": "Pi AI is an AI model developed by Inflection AI, the first emotionally intelligent AI.",
-        "files": [
-            {
-                "name": "pi-logo-192.png"
-            }
-        ]
-    },
-    {
-        "id": "perplexity",
-        "label": "Perplexity AI",
-        "description": "Perplexity AI is an AI model developed by Perplexity AI, offering a fast way to get information. It's a tool that empowers everyone in the world to learn anything in their own way, using their own language or at their own level.",
-        "files": [
-            {
-                "name": "perplexityai.png"
-            }
-        ]
-    },
-    {
-        "id": "openrouterai",
-        "label": "Open Router",
-        "description": "Open Router is an AI proxy service that provide access to popular AI models on the market via a single API interface, offerring API cost control and analytics.",
-        "files": [
-            {
-                "name": "openrouterai.png"
-            }
-        ]
-    },
-    {
-        "id": "llava",
-        "label": "Llava",
-        "description": "LLaVA introduces a new approach to large-scale multimodal learning by seamlessly integrating a powerful vision encoder with the Vicuna language model.",
-        "files": [
-            {
-                "name": "llava.png"
-            }
-        ]
-    },
-    {
-        "id": "gpt4all",
-        "label": "GPT-4 for ALL",
-        "description": "An accessible, offline, LLM model that prioritizes your privacy. Designed to operate efficiently on your local device without the need for a GPU or internet connection.",
-        "files": [
-            {
-                "name": "gpt4all.png"
-            }
-        ]
-    },
-    {
-        "id": "vicuna",
-        "label": "Vicuna",
-        "description": "An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality",
-        "files": [
-            {
-                "name": "vicuna.png"
-            }
-        ]
-    },
-    {
-        "id": "falcon",
-        "label": "Falcon",
-        "description": "Falcon is another new open-source LLM developed by Technology Innovative Institute (TII) and released under Apache 2.0 license.",
-        "files": [
-            {
-                "name": "falcon.png"
-            }
-        ]
-    },
-    {
-        "id": "huggingface",
-        "label": "Hugging Face",
-        "description": "Hugging Face is a platform to that provide computation and tools for building machine learning applications.",
-        "files": [
-            {
-                "name": "huggingface.png"
-            }
-        ]
-    },
-    {
-        "id": "openai",
-        "label": "Generic OpenAI",
-        "description": "Generic OpenAI model. OpenAI is a research lab focused on developing AGI technologies.",
-        "files": [
-            {
-                "name": "openai.svg"
-            }
-        ]
-    },
-    {
-        "id": "open-assistant",
-        "label": "Open Assistant",
-        "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
-        "files": [
-            {
-                "name": "openassistant.webp"
-            }
-        ]
-    },
-    {
-        "id": "replit",
-        "label": "Replit Code",
-        "description": "Replit Code is a LLM model developed by Replit, which beats OpenAI’s Codex model on the industry standard HumanEval benchmark when finetuned on Replit data despite being 77% smaller ",
-        "files": [
-            {
-                "name": "replit.png"
-            }
-        ],
-        "models": [
-            "replit-code-v1-3b"
-        ]
-    },
-    {
-        "id": "phi-2",
-        "label": "Phi-2",
-        "description": "A 2.7 billion-parameter language model developed by Microsoft that demonstrates outstanding reasoning and language understanding capabilities, showcasing state-of-the-art performance among base language models with less than 13 billion parameters",
-        "files": [
-            {
-                "name": "phi-2.png"
-            }
-        ],
-        "models": [
-            "phi-2"
-        ]
-    },
-    {
-        "id": "gemma",
-        "label": "Gemma",
-        "description": "Gemma is a family of lightweight, state-of-the-art open models built from the same research and technology used to create the Gemini models. Developed by Google DeepMind and other teams across Google.",
-        "files": [
-            {
-                "name": "gemma.jpg"
-            }
-        ]
-    }
+  {
+    "id": "gpt-4",
+    "label": "GPT-4",
+    "description": "GPT-4 is a highly capable AI model developed by OpenAI, offering advanced natural language processing capabilities.",
+    "files": [
+      {
+        "name": "gpt-4.webp"
+      }
+    ],
+    "models": [
+      "gpt-4",
+      "gpt-4-turbo",
+      "gpt-4-32k",
+      "gpt-4-1106-preview",
+      "gpt-4-0125-preview",
+      "gpt-4-vision-preview",
+      "gpt-4-turbo-preview"
+    ]
+  },
+  {
+    "id": "gpt-3.5",
+    "label": "GPT-3.5",
+    "description": "GPT-3.5 is a powerful language model developed by OpenAI, known for its ability to generate human-like text.",
+    "files": [
+      {
+        "name": "gpt-35.webp"
+      }
+    ],
+    "models": [
+      "gpt-3.5-turbo",
+      "gpt-3.5-turbo-16k",
+      "gpt-3.5-turbo-1106",
+      "gpt-3.5-turbo-0125"
+    ]
+  },
+  {
+    "id": "gemini",
+    "label": "Gemini",
+    "description": "Gemini is an AI model developed by Google, designed for conversational AI applications.",
+    "files": [
+      {
+        "name": "gemini.png"
+      }
+    ],
+    "models": [
+      "gemini-1.5-pro-latest",
+      "gemini-ultra",
+      "gemini-pro",
+      "gemini-pro-vision"
+    ]
+  },
+  {
+    "id": "llama",
+    "label": "LLaMA",
+    "description": "LLaMA is an open-source large language model developed by Facebook AI, known for its efficiency and performance.",
+    "files": [
+      {
+        "name": "llama.png"
+      }
+    ],
+    "models": [
+      "codellama-70b-instruct",
+      "codellama-34b-instruct",
+      "llama-3-8b-instruct:extended",
+      "llama-3-70b-instruct:nitro"
+    ]
+  },
+  {
+    "id": "mistral",
+    "label": "Mistral",
+    "description": "Mistral is an AI model developed by Mistral AI, offering advanced language understanding and generation capabilities.",
+    "files": [
+      {
+        "name": "mistralai.png"
+      }
+    ],
+    "models": [
+      "mixtral-8x22b",
+      "mistral-7b-instruct",
+      "mistral-large",
+      "mistral-tiny",
+      "mistral-small",
+      "mistral-medium"
+    ]
+  },
+  {
+    "id": "claude",
+    "label": "Claude",
+    "description": "Claude is an AI assistant developed by Anthropic, designed for engaging conversations and task assistance.",
+    "files": [
+      {
+        "name": "claude.webp"
+      }
+    ],
+    "models": [
+      "claude-3-opus-20240229",
+      "claude-3-sonnet-20240229",
+      "claude-3-haiku-20240307",
+      "claude-2.1",
+      "claude-2",
+      "claude-1",
+      "claude-instant-1",
+      "claude-instant-1.2"
+    ]
+  },
+  {
+    "id": "azure-openai",
+    "label": "Azure OpenAI",
+    "description": "Azure OpenAI is a cloud-based platform that provides access to OpenAI models, enabling developers to build AI-powered applications.",
+    "files": [
+      {
+        "name": "azureopenai.png"
+      }
+    ]
+  },
+  {
+    "id": "bing",
+    "label": "Bing Chat",
+    "description": "Bing Chat is a conversational AI model developed by Microsoft, designed for chat applications.",
+    "files": [
+      {
+        "name": "bing.svg"
+      }
+    ]
+  },
+  {
+    "id": "pi",
+    "label": "Pi AI",
+    "description": "Pi AI is an AI model developed by Inflection AI, the first emotionally intelligent AI.",
+    "files": [
+      {
+        "name": "pi-logo-192.png"
+      }
+    ]
+  },
+  {
+    "id": "perplexity",
+    "label": "Perplexity AI",
+    "description": "Perplexity AI is an AI model developed by Perplexity AI, offering a fast way to get information. It's a tool that empowers everyone in the world to learn anything in their own way, using their own language or at their own level.",
+    "files": [
+      {
+        "name": "perplexityai.png"
+      }
+    ]
+  },
+  {
+    "id": "openrouterai",
+    "label": "Open Router",
+    "description": "Open Router is an AI proxy service that provide access to popular AI models on the market via a single API interface, offerring API cost control and analytics.",
+    "files": [
+      {
+        "name": "openrouterai.png"
+      }
+    ]
+  },
+  {
+    "id": "llava",
+    "label": "Llava",
+    "description": "LLaVA introduces a new approach to large-scale multimodal learning by seamlessly integrating a powerful vision encoder with the Vicuna language model.",
+    "files": [
+      {
+        "name": "llava.png"
+      }
+    ]
+  },
+  {
+    "id": "gpt4all",
+    "label": "GPT-4 for ALL",
+    "description": "An accessible, offline, LLM model that prioritizes your privacy. Designed to operate efficiently on your local device without the need for a GPU or internet connection.",
+    "files": [
+      {
+        "name": "gpt4all.png"
+      }
+    ]
+  },
+  {
+    "id": "vicuna",
+    "label": "Vicuna",
+    "description": "An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality",
+    "files": [
+      {
+        "name": "vicuna.png"
+      }
+    ]
+  },
+  {
+    "id": "falcon",
+    "label": "Falcon",
+    "description": "Falcon is another new open-source LLM developed by Technology Innovative Institute (TII) and released under Apache 2.0 license.",
+    "files": [
+      {
+        "name": "falcon.png"
+      }
+    ]
+  },
+  {
+    "id": "huggingface",
+    "label": "Hugging Face",
+    "description": "Hugging Face is a platform to that provide computation and tools for building machine learning applications.",
+    "files": [
+      {
+        "name": "huggingface.png"
+      }
+    ]
+  },
+  {
+    "id": "openai",
+    "label": "Generic OpenAI",
+    "description": "Generic OpenAI model. OpenAI is a research lab focused on developing AGI technologies.",
+    "files": [
+      {
+        "name": "openai.svg"
+      }
+    ]
+  },
+  {
+    "id": "open-assistant",
+    "label": "Open Assistant",
+    "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "files": [
+      {
+        "name": "openassistant.webp"
+      }
+    ]
+  },
+  {
+    "id": "replit",
+    "label": "Replit Code",
+    "description": "Replit Code is a LLM model developed by Replit, which beats OpenAI’s Codex model on the industry standard HumanEval benchmark when finetuned on Replit data despite being 77% smaller ",
+    "files": [
+      {
+        "name": "replit.png"
+      }
+    ],
+    "models": [
+      "replit-code-v1-3b"
+    ]
+  },
+  {
+    "id": "phi-2",
+    "label": "Phi-2",
+    "description": "A 2.7 billion-parameter language model developed by Microsoft that demonstrates outstanding reasoning and language understanding capabilities, showcasing state-of-the-art performance among base language models with less than 13 billion parameters",
+    "files": [
+      {
+        "name": "phi-2.png"
+      }
+    ],
+    "models": [
+      "phi-2"
+    ]
+  },
+  {
+    "id": "gemma",
+    "label": "Gemma",
+    "description": "Gemma is a family of lightweight, state-of-the-art open models built from the same research and technology used to create the Gemini models. Developed by Google DeepMind and other teams across Google.",
+    "files": [
+      {
+        "name": "gemma.jpg"
+      }
+    ]
+  },
+  {
+    "id": "qwen2",
+    "label": "Qwen2",
+    "description": "Qwen2 is a new series of large language models from Alibaba group. It is available in 4 parameter sizes: 0.5B, 1.5B, 7B, 72B. In the 7B and 72B models, context length has been extended to 128k tokens.",
+    "files": [
+      {
+        "name": "qwen2.png"
+      }
+    ],
+    "models": [
+      "Qwen2-72B-Instruct2",
+      "Qwen2-72B",
+      "Qwen2-7B-Instruct"
+    ]
+  },
+  {
+    "id": "deepseek",
+    "label": "DeepSeek",
+    "description": "DeepSeek, founded in 2023, is a Chinese company dedicated to making AGI a reality. DeepSeek-V2, a strong Mixture-of-Experts (MoE) language model characterized by economical training and efficient inference. DeepSeek-V2 adopts innovative architectures including Multi-head Latent Attention (MLA) and DeepSeekMoE. DeepSeek-Coder-v2 is an open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.",
+    "files": [
+      {
+        "name": "deepseek.png"
+      }
+    ],
+    "models": [
+      "DeepSeek-V2",
+      "DeepSeek-Coder-V2",
+      "deepseek-llm",
+      "deepseek-coder"
+    ]
+  },
+  {
+    "id": "aya",
+    "label": "Aya",
+    "description": "Aya 23, released by Cohere, is a new family of state-of-the-art, multilingual models that support 23 languages. The Aya model is trained using xP3x, Aya Dataset, Aya Collection, a subset of DataProvenance collection and ShareGPT-Command.",
+    "files": [
+      {
+        "name": "aya.svg"
+      }
+    ],
+    "models": [
+      "aya-23-8B",
+      "aya-23-35B"
+    ]
+  },
+  {
+    "id": "orca-mini",
+    "label": "Orca-Mini",
+    "description": "A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.",
+    "files": [
+      {
+        "name": "orca-mini.png"
+      }
+    ],
+    "models": [
+      "orca-mini"
+    ]
+  }
 ]
