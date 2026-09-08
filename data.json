@@ -41,6 +41,18 @@
     "files": [
       {
         "name": "gemini.png"
+      },
+      {
+        "name": "gemini-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "gemini-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "gemini.jpg",
+        "variant": "default"
       }
     ],
     "models": [
@@ -73,6 +85,18 @@
     "files": [
       {
         "name": "mistralai.png"
+      },
+      {
+        "name": "mistral-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "mistral-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "mistral.jpg",
+        "variant": "default"
       }
     ],
     "models": [
@@ -91,6 +115,18 @@
     "files": [
       {
         "name": "claude.webp"
+      },
+      {
+        "name": "claude-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "claude-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "claude.jpg",
+        "variant": "default"
       }
     ],
     "models": [
@@ -121,6 +157,18 @@
     "files": [
       {
         "name": "bing.svg"
+      },
+      {
+        "name": "bing-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "bing-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bing.jpg",
+        "variant": "default"
       }
     ]
   },
@@ -131,6 +179,14 @@
     "files": [
       {
         "name": "pi-logo-192.png"
+      },
+      {
+        "name": "pi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "pi.jpg",
+        "variant": "default"
       }
     ]
   },
@@ -141,6 +197,18 @@
     "files": [
       {
         "name": "perplexityai.png"
+      },
+      {
+        "name": "perplexity-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "perplexity-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "perplexity.jpg",
+        "variant": "default"
       }
     ]
   },
@@ -161,6 +229,18 @@
     "files": [
       {
         "name": "llava.png"
+      },
+      {
+        "name": "llava-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "llava-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "llava.jpg",
+        "variant": "default"
       }
     ]
   },
@@ -201,6 +281,18 @@
     "files": [
       {
         "name": "huggingface.png"
+      },
+      {
+        "name": "huggingface-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "huggingface-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "huggingface.jpg",
+        "variant": "default"
       }
     ]
   },
@@ -211,6 +303,14 @@
     "files": [
       {
         "name": "openai.svg"
+      },
+      {
+        "name": "openai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "openai.jpg",
+        "variant": "default"
       }
     ]
   },
@@ -231,6 +331,18 @@
     "files": [
       {
         "name": "replit.png"
+      },
+      {
+        "name": "replit-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "replit-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "replit.jpg",
+        "variant": "default"
       }
     ],
     "models": [
@@ -257,6 +369,18 @@
     "files": [
       {
         "name": "gemma.jpg"
+      },
+      {
+        "name": "gemma-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "gemma-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "gemma.jpg",
+        "variant": "default"
       }
     ]
   },
@@ -282,6 +406,18 @@
     "files": [
       {
         "name": "deepseek.png"
+      },
+      {
+        "name": "deepseek-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "deepseek-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "deepseek.jpg",
+        "variant": "default"
       }
     ],
     "models": [
@@ -298,6 +434,18 @@
     "files": [
       {
         "name": "aya.svg"
+      },
+      {
+        "name": "aya-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "aya-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "aya.jpg",
+        "variant": "default"
       }
     ],
     "models": [
@@ -317,5 +465,6357 @@
     "models": [
       "orca-mini"
     ]
+  },
+  {
+    "id": "ace",
+    "label": "ACE",
+    "description": "",
+    "files": [
+      {
+        "name": "ace-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ace.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "adobe",
+    "label": "Adobe",
+    "description": "",
+    "files": [
+      {
+        "name": "adobe-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "adobe-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "adobe.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "adobefirefly",
+    "label": "Adobe Firefly",
+    "description": "",
+    "files": [
+      {
+        "name": "adobefirefly-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "adobefirefly-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "adobefirefly.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "agentvoice",
+    "label": "AgentVoice",
+    "description": "",
+    "files": [
+      {
+        "name": "agentvoice-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "agentvoice-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "agentvoice.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "agnesai",
+    "label": "Agnes AI",
+    "description": "",
+    "files": [
+      {
+        "name": "agnesai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "agnesai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "agui",
+    "label": "AG-UI",
+    "description": "",
+    "files": [
+      {
+        "name": "agui-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "agui.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ai2",
+    "label": "AI2",
+    "description": "",
+    "files": [
+      {
+        "name": "ai2-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "ai2-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ai2.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ai21",
+    "label": "AI21 Labs",
+    "description": "",
+    "files": [
+      {
+        "name": "ai21-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "ai21-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "ai21-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ai21.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ai302",
+    "label": "302.AI",
+    "description": "",
+    "files": [
+      {
+        "name": "ai302-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "ai302-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ai302.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ai360",
+    "label": "360 AI",
+    "description": "",
+    "files": [
+      {
+        "name": "ai360-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "ai360-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ai360.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "aihubmix",
+    "label": "AiHubMix",
+    "description": "",
+    "files": [
+      {
+        "name": "aihubmix-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "aihubmix-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "aihubmix.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "aimass",
+    "label": "AIMass",
+    "description": "",
+    "files": [
+      {
+        "name": "aimass-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "aimass-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "aimass.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "aionlabs",
+    "label": "AionLabs",
+    "description": "",
+    "files": [
+      {
+        "name": "aionlabs-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "aionlabs-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "aionlabs.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "airjelly",
+    "label": "AirJelly",
+    "description": "",
+    "files": [
+      {
+        "name": "airjelly-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "airjelly-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "airjelly.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "aistudio",
+    "label": "AI Studio",
+    "description": "",
+    "files": [
+      {
+        "name": "aistudio-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "aistudio.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "akashchat",
+    "label": "Akash Chat",
+    "description": "",
+    "files": [
+      {
+        "name": "akashchat-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "akashchat-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "akashchat.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "alephalpha",
+    "label": "Aleph Alpha",
+    "description": "",
+    "files": [
+      {
+        "name": "alephalpha-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "alephalpha.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "alibaba",
+    "label": "Alibaba",
+    "description": "",
+    "files": [
+      {
+        "name": "alibaba-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "alibaba-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "alibaba-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "alibaba-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "alibaba-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "alibaba.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "alibabacloud",
+    "label": "Alibaba Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "alibabacloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "alibabacloud-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "alibabacloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "alibabacloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "amd",
+    "label": "AMD",
+    "description": "",
+    "files": [
+      {
+        "name": "amd.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "amp",
+    "label": "Amp",
+    "description": "",
+    "files": [
+      {
+        "name": "amp-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "amp-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "amp.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "anspire",
+    "label": "Anspire",
+    "description": "",
+    "files": [
+      {
+        "name": "anspire-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "anspire-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "anspire.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "antgroup",
+    "label": "Ant Group",
+    "description": "",
+    "files": [
+      {
+        "name": "antgroup-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "antgroup-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "antgroup-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "antgroup-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "antgroup-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "antgroup.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "anthropic",
+    "label": "Anthropic",
+    "description": "",
+    "files": [
+      {
+        "name": "anthropic-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "anthropic.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "antigravity",
+    "label": "Antigravity",
+    "description": "",
+    "files": [
+      {
+        "name": "antigravity-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "antigravity-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "antigravity.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "anyscale",
+    "label": "Anyscale",
+    "description": "",
+    "files": [
+      {
+        "name": "anyscale-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "anyscale-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "anyscale.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "apertis",
+    "label": "Apertis",
+    "description": "",
+    "files": [
+      {
+        "name": "apertis-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "apertis-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "apertis.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "apple",
+    "label": "Apple",
+    "description": "",
+    "files": [
+      {
+        "name": "apple-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "apple.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "arcee",
+    "label": "Arcee AI",
+    "description": "",
+    "files": [
+      {
+        "name": "arcee-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "arcee-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "arcee.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "askverdict",
+    "label": "AskVerdict",
+    "description": "",
+    "files": [
+      {
+        "name": "askverdict-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "askverdict-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "askverdict.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "assemblyai",
+    "label": "AssemblyAI",
+    "description": "",
+    "files": [
+      {
+        "name": "assemblyai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "assemblyai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "assemblyai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "atlascloud",
+    "label": "Atlas Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "atlascloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "atlascloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "automatic",
+    "label": "Automatic",
+    "description": "",
+    "files": [
+      {
+        "name": "automatic-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "automatic-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "automatic.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "aws",
+    "label": "AWS",
+    "description": "",
+    "files": [
+      {
+        "name": "aws-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "aws-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "aws-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "aws-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "aws.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "azure",
+    "label": "Azure",
+    "description": "",
+    "files": [
+      {
+        "name": "azure-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "azure-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "azure.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "azureai",
+    "label": "Azure AI",
+    "description": "",
+    "files": [
+      {
+        "name": "azureai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "azureai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "azureai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "baai",
+    "label": "BAAI",
+    "description": "",
+    "files": [
+      {
+        "name": "baai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "baai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "baichuan",
+    "label": "Baichuan",
+    "description": "",
+    "files": [
+      {
+        "name": "baichuan-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "baichuan-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "baichuan.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "baidu",
+    "label": "Baidu",
+    "description": "",
+    "files": [
+      {
+        "name": "baidu-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "baidu-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "baidu-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "baidu-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "baidu-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "baidu.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "baiducloud",
+    "label": "Baidu Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "baiducloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "baiducloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "baiducloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "bailian",
+    "label": "Bailian",
+    "description": "",
+    "files": [
+      {
+        "name": "bailian-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "bailian-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bailian.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "baseten",
+    "label": "Baseten",
+    "description": "",
+    "files": [
+      {
+        "name": "baseten-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "baseten.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "bedrock",
+    "label": "Bedrock",
+    "description": "",
+    "files": [
+      {
+        "name": "bedrock-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "bedrock-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bedrock.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "bfl",
+    "label": "Black Forest Labs",
+    "description": "",
+    "files": [
+      {
+        "name": "bfl-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bfl.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "bilibili",
+    "label": "Bilibili",
+    "description": "",
+    "files": [
+      {
+        "name": "bilibili-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "bilibili-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bilibili.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "bilibiliindex",
+    "label": "Bilibili Index",
+    "description": "",
+    "files": [
+      {
+        "name": "bilibiliindex-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bilibiliindex.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "bocha",
+    "label": "Bocha",
+    "description": "",
+    "files": [
+      {
+        "name": "bocha-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "bocha-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bocha.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "brave",
+    "label": "Brave",
+    "description": "",
+    "files": [
+      {
+        "name": "brave-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "brave-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "brave.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "briaai",
+    "label": "Bria AI",
+    "description": "",
+    "files": [
+      {
+        "name": "briaai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "briaai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "briaai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "browserless",
+    "label": "Browserless",
+    "description": "",
+    "files": [
+      {
+        "name": "browserless-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "browserless.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "burncloud",
+    "label": "BurnCloud",
+    "description": "",
+    "files": [
+      {
+        "name": "burncloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "burncloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "burncloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "bytedance",
+    "label": "ByteDance",
+    "description": "",
+    "files": [
+      {
+        "name": "bytedance-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "bytedance-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "bytedance-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "bytedance-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "bytedance-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "bytedance.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "capcut",
+    "label": "CapCut",
+    "description": "",
+    "files": [
+      {
+        "name": "capcut-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "capcut.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "celestoai",
+    "label": "Celesto AI",
+    "description": "",
+    "files": [
+      {
+        "name": "celestoai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "celestoai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "celestoai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "centml",
+    "label": "CentML",
+    "description": "",
+    "files": [
+      {
+        "name": "centml-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "centml-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "centml-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "centml-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "centml.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cerebras",
+    "label": "Cerebras",
+    "description": "",
+    "files": [
+      {
+        "name": "cerebras-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "cerebras-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "cerebras-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "cerebras-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cerebras.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "chatglm",
+    "label": "ChatGLM",
+    "description": "",
+    "files": [
+      {
+        "name": "chatglm-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "chatglm-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "chatglm.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cherrystudio",
+    "label": "Cherry Studio",
+    "description": "",
+    "files": [
+      {
+        "name": "cherrystudio-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "cherrystudio-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cherrystudio.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "chutes",
+    "label": "Chutes",
+    "description": "",
+    "files": [
+      {
+        "name": "chutes.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "civitai",
+    "label": "Civitai",
+    "description": "",
+    "files": [
+      {
+        "name": "civitai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "civitai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "civitai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "civitai-text",
+    "label": "Civitai-text",
+    "description": "",
+    "files": [
+      {
+        "name": "civitai-text-color.jpg",
+        "variant": "color"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "clarifai",
+    "label": "Clarifai",
+    "description": "",
+    "files": [
+      {
+        "name": "clarifai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "claudecode",
+    "label": "Claude Code",
+    "description": "",
+    "files": [
+      {
+        "name": "claudecode-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "claudecode-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "claudecode.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cline",
+    "label": "Cline",
+    "description": "",
+    "files": [
+      {
+        "name": "cline-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cline.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "clipdrop",
+    "label": "Clipdrop",
+    "description": "",
+    "files": [
+      {
+        "name": "clipdrop-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "clipdrop.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cloudferro",
+    "label": "CloudFerro",
+    "description": "",
+    "files": [
+      {
+        "name": "cloudferro.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cloudflare",
+    "label": "Cloudflare",
+    "description": "",
+    "files": [
+      {
+        "name": "cloudflare-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "cloudflare-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cloudflare.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "codebuddy",
+    "label": "CodeBuddy",
+    "description": "",
+    "files": [
+      {
+        "name": "codebuddy-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "codebuddy-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "codebuddy.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "codeflicker",
+    "label": "CodeFlicker",
+    "description": "",
+    "files": [
+      {
+        "name": "codeflicker-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "codeflicker-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "codeflicker.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "codegeex",
+    "label": "CodeGeeX",
+    "description": "",
+    "files": [
+      {
+        "name": "codegeex-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "codegeex-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "codegeex.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "codex",
+    "label": "Codex",
+    "description": "",
+    "files": [
+      {
+        "name": "codex-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "codex-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "codex.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cogvideo",
+    "label": "CogVideo",
+    "description": "",
+    "files": [
+      {
+        "name": "cogvideo-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "cogvideo-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cogvideo.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cogview",
+    "label": "CogView",
+    "description": "",
+    "files": [
+      {
+        "name": "cogview-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "cogview-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cogview.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cohere",
+    "label": "Cohere",
+    "description": "",
+    "files": [
+      {
+        "name": "cohere-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "cohere-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cohere.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "colab",
+    "label": "Colab",
+    "description": "",
+    "files": [
+      {
+        "name": "colab-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "colab-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "colab.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cometapi",
+    "label": "CometAPI",
+    "description": "",
+    "files": [
+      {
+        "name": "cometapi-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "cometapi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cometapi.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "comfyui",
+    "label": "ComfyUI",
+    "description": "",
+    "files": [
+      {
+        "name": "comfyui-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "comfyui-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "comfyui.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "commanda",
+    "label": "Command A",
+    "description": "",
+    "files": [
+      {
+        "name": "commanda-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "commanda-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "commanda.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "copilot",
+    "label": "Copilot",
+    "description": "",
+    "files": [
+      {
+        "name": "copilot-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "copilot-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "copilot.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "copilotkit",
+    "label": "CopilotKit",
+    "description": "",
+    "files": [
+      {
+        "name": "copilotkit-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "copilotkit-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "copilotkit.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "coqui",
+    "label": "Coqui",
+    "description": "",
+    "files": [
+      {
+        "name": "coqui-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "coqui-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "coqui.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "coze",
+    "label": "Coze",
+    "description": "",
+    "files": [
+      {
+        "name": "coze-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "coze.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "crewai",
+    "label": "CrewAI",
+    "description": "",
+    "files": [
+      {
+        "name": "crewai-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "crewai-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "crewai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "crewai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "crewai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "crusoe",
+    "label": "Crusoe",
+    "description": "",
+    "files": [
+      {
+        "name": "crusoe-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "crusoe-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "crusoe.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cursor",
+    "label": "Cursor",
+    "description": "",
+    "files": [
+      {
+        "name": "cursor-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cursor.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "cybercut",
+    "label": "CyberCut",
+    "description": "",
+    "files": [
+      {
+        "name": "cybercut-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "cybercut.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "dalle",
+    "label": "DALL·E",
+    "description": "",
+    "files": [
+      {
+        "name": "dalle-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "dalle-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "dalle.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "databricks",
+    "label": "Databricks",
+    "description": "",
+    "files": [
+      {
+        "name": "databricks.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "dbrx",
+    "label": "DBRX",
+    "description": "",
+    "files": [
+      {
+        "name": "dbrx-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "dbrx-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "dbrx-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "dbrx-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "dbrx.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "deepai",
+    "label": "DeepAI",
+    "description": "",
+    "files": [
+      {
+        "name": "deepai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "deepai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "deepcogito",
+    "label": "Deep Cogito",
+    "description": "",
+    "files": [
+      {
+        "name": "deepcogito-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "deepcogito-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "deepcogito.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "deepinfra",
+    "label": "DeepInfra",
+    "description": "",
+    "files": [
+      {
+        "name": "deepinfra-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "deepinfra-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "deepinfra.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "deepl",
+    "label": "DeepL",
+    "description": "",
+    "files": [
+      {
+        "name": "deepl-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "deepl-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "deepl.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "deepmind",
+    "label": "DeepMind",
+    "description": "",
+    "files": [
+      {
+        "name": "deepmind-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "deepmind-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "deepmind.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "devin",
+    "label": "Devin",
+    "description": "",
+    "files": [
+      {
+        "name": "devin-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "devin-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "devin.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "dify",
+    "label": "Dify",
+    "description": "",
+    "files": [
+      {
+        "name": "dify-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "dify-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "dify.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "digitalocean",
+    "label": "DigitalOcean",
+    "description": "",
+    "files": [
+      {
+        "name": "digitalocean.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "doc2x",
+    "label": "Doc2X",
+    "description": "",
+    "files": [
+      {
+        "name": "doc2x-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "doc2x-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "doc2x.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "docsearch",
+    "label": "DocSearch",
+    "description": "",
+    "files": [
+      {
+        "name": "docsearch-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "docsearch-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "docsearch.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "dolphin",
+    "label": "Dolphin",
+    "description": "",
+    "files": [
+      {
+        "name": "dolphin-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "dolphin.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "doubao",
+    "label": "Doubao",
+    "description": "",
+    "files": [
+      {
+        "name": "doubao-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "doubao-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "doubao.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "dreammachine",
+    "label": "Dream Machine",
+    "description": "",
+    "files": [
+      {
+        "name": "dreammachine-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "dreammachine.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "edenai",
+    "label": "Eden AI",
+    "description": "",
+    "files": [
+      {
+        "name": "edenai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "elevenlabs",
+    "label": "ElevenLabs",
+    "description": "",
+    "files": [
+      {
+        "name": "elevenlabs-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "elevenlabs.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "elevenx",
+    "label": "11x",
+    "description": "",
+    "files": [
+      {
+        "name": "elevenx-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "elevenx.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "essentialai",
+    "label": "Essential AI",
+    "description": "",
+    "files": [
+      {
+        "name": "essentialai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "essentialai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "essentialai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "exa",
+    "label": "Exa",
+    "description": "",
+    "files": [
+      {
+        "name": "exa-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "exa-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "exa.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "fal",
+    "label": "fal",
+    "description": "",
+    "files": [
+      {
+        "name": "fal-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "fal-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "fal.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "fastgpt",
+    "label": "FastGPT",
+    "description": "",
+    "files": [
+      {
+        "name": "fastgpt-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "fastgpt-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "fastgpt.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "featherless",
+    "label": "Featherless",
+    "description": "",
+    "files": [
+      {
+        "name": "featherless-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "featherless-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "featherless.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "figma",
+    "label": "Figma",
+    "description": "",
+    "files": [
+      {
+        "name": "figma-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "figma-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "figma.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "firecrawl",
+    "label": "Firecrawl",
+    "description": "",
+    "files": [
+      {
+        "name": "firecrawl-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "firecrawl-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "firecrawl.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "fireworks",
+    "label": "Fireworks AI",
+    "description": "",
+    "files": [
+      {
+        "name": "fireworks-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "fireworks-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "fireworks.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "fishaudio",
+    "label": "Fish Audio",
+    "description": "",
+    "files": [
+      {
+        "name": "fishaudio-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "fishaudio.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "flora",
+    "label": "Flora",
+    "description": "",
+    "files": [
+      {
+        "name": "flora-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "flora.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "flowith",
+    "label": "Flowith",
+    "description": "",
+    "files": [
+      {
+        "name": "flowith-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "flowith.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "flux",
+    "label": "FLUX",
+    "description": "",
+    "files": [
+      {
+        "name": "flux-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "flux.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "friendli",
+    "label": "Friendli",
+    "description": "",
+    "files": [
+      {
+        "name": "friendli-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "friendli.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "geminicli",
+    "label": "Gemini CLI",
+    "description": "",
+    "files": [
+      {
+        "name": "geminicli-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "geminicli-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "geminicli.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "giteeai",
+    "label": "Giteeai",
+    "description": "",
+    "files": [
+      {
+        "name": "giteeai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "giteeai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "github",
+    "label": "GitHub",
+    "description": "",
+    "files": [
+      {
+        "name": "github-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "github.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "githubcopilot",
+    "label": "GitHub Copilot",
+    "description": "",
+    "files": [
+      {
+        "name": "githubcopilot-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "githubcopilot.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "gitlab",
+    "label": "GitLab",
+    "description": "",
+    "files": [
+      {
+        "name": "gitlab.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "glama",
+    "label": "Glama",
+    "description": "",
+    "files": [
+      {
+        "name": "glama-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "glama.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "glif",
+    "label": "Glif",
+    "description": "",
+    "files": [
+      {
+        "name": "glif-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "glif.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "glmv",
+    "label": "GLM-V",
+    "description": "",
+    "files": [
+      {
+        "name": "glmv-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "glmv-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "glmv.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "gmicloud",
+    "label": "GMI Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "gmicloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "google",
+    "label": "Google",
+    "description": "",
+    "files": [
+      {
+        "name": "google-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "google-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "google-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "google.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "googlecloud",
+    "label": "Google Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "googlecloud-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "googlecloud-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "googlecloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "googlecloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "goose",
+    "label": "Goose",
+    "description": "",
+    "files": [
+      {
+        "name": "goose-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "goose.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "gradio",
+    "label": "Gradio",
+    "description": "",
+    "files": [
+      {
+        "name": "gradio-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "gradio-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "gradio.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "greptile",
+    "label": "Greptile",
+    "description": "",
+    "files": [
+      {
+        "name": "greptile-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "greptile-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "greptile.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "grok",
+    "label": "Grok",
+    "description": "",
+    "files": [
+      {
+        "name": "grok-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "grok.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "groq",
+    "label": "Groq",
+    "description": "",
+    "files": [
+      {
+        "name": "groq-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "groq.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "hailuo",
+    "label": "Hailuo",
+    "description": "",
+    "files": [
+      {
+        "name": "hailuo-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "hailuo-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "hailuo.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "haiper",
+    "label": "Haiper",
+    "description": "",
+    "files": [
+      {
+        "name": "haiper-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "haiper.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "happyhorse",
+    "label": "HappyHorse",
+    "description": "",
+    "files": [
+      {
+        "name": "happyhorse-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "happyhorse.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "hedra",
+    "label": "Hedra",
+    "description": "",
+    "files": [
+      {
+        "name": "hedra-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "hedra.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "helicone",
+    "label": "Helicone",
+    "description": "",
+    "files": [
+      {
+        "name": "helicone.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "hermesagent",
+    "label": "Hermes Agent",
+    "description": "",
+    "files": [
+      {
+        "name": "hermesagent-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "hermesagent.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "hetzner",
+    "label": "Hetzner",
+    "description": "",
+    "files": [
+      {
+        "name": "hetzner.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "higress",
+    "label": "Higress",
+    "description": "",
+    "files": [
+      {
+        "name": "higress-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "higress-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "higress.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "huawei",
+    "label": "Huawei",
+    "description": "",
+    "files": [
+      {
+        "name": "huawei-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "huawei-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "huawei-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "huawei.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "huaweicloud",
+    "label": "Huawei Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "huaweicloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "huaweicloud-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "huaweicloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "huaweicloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "hunyuan",
+    "label": "Hunyuan",
+    "description": "",
+    "files": [
+      {
+        "name": "hunyuan-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "hunyuan-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "hunyuan.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "hyperbolic",
+    "label": "Hyperbolic",
+    "description": "",
+    "files": [
+      {
+        "name": "hyperbolic-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "hyperbolic-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "hyperbolic.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ibm",
+    "label": "IBM",
+    "description": "",
+    "files": [
+      {
+        "name": "ibm-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ibm.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ideogram",
+    "label": "Ideogram",
+    "description": "",
+    "files": [
+      {
+        "name": "ideogram-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ideogram.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "iflow",
+    "label": "iFlow",
+    "description": "",
+    "files": [
+      {
+        "name": "iflow.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "iflytekcloud",
+    "label": "iFlytek Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "iflytekcloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "iflytekcloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "iflytekcloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "inception",
+    "label": "Inception",
+    "description": "",
+    "files": [
+      {
+        "name": "inception-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "inception.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "inference",
+    "label": "Inference.net",
+    "description": "",
+    "files": [
+      {
+        "name": "inference-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "inference.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "infermatic",
+    "label": "Infermatic",
+    "description": "",
+    "files": [
+      {
+        "name": "infermatic-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "infermatic-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "infermatic.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "infinigence",
+    "label": "Infinigence",
+    "description": "",
+    "files": [
+      {
+        "name": "infinigence-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "infinigence-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "infinigence-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "infinigence.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "inflection",
+    "label": "Inflection",
+    "description": "",
+    "files": [
+      {
+        "name": "inflection-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "inflection.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "infomaniak",
+    "label": "Infomaniak",
+    "description": "",
+    "files": [
+      {
+        "name": "infomaniak.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "internlm",
+    "label": "InternLM",
+    "description": "",
+    "files": [
+      {
+        "name": "internlm-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "internlm-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "internlm.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "jimeng",
+    "label": "Jimeng",
+    "description": "",
+    "files": [
+      {
+        "name": "jimeng-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "jimeng-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "jimeng.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "jina",
+    "label": "Jina AI",
+    "description": "",
+    "files": [
+      {
+        "name": "jina-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "jina.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "junie",
+    "label": "Junie",
+    "description": "",
+    "files": [
+      {
+        "name": "junie-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "junie-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "junie.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kagi",
+    "label": "Kagi",
+    "description": "",
+    "files": [
+      {
+        "name": "kagi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kagi.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kilocode",
+    "label": "Kilo Code",
+    "description": "",
+    "files": [
+      {
+        "name": "kilocode-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kilocode.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kimi",
+    "label": "Kimi",
+    "description": "",
+    "files": [
+      {
+        "name": "kimi-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "kimi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kimi.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kiro",
+    "label": "Kiro",
+    "description": "",
+    "files": [
+      {
+        "name": "kiro-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "kiro-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kiro.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kling",
+    "label": "Kling",
+    "description": "",
+    "files": [
+      {
+        "name": "kling-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "kling-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kling.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kluster",
+    "label": "kluster.ai",
+    "description": "",
+    "files": [
+      {
+        "name": "kluster-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "kluster-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kluster.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kolors",
+    "label": "Kolors",
+    "description": "",
+    "files": [
+      {
+        "name": "kolors-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "kolors-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kolors.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "krea",
+    "label": "Krea",
+    "description": "",
+    "files": [
+      {
+        "name": "krea-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "krea.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kuaecloud",
+    "label": "Kuae Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "kuaecloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kwaikat-text",
+    "label": "Kwaikat-text",
+    "description": "",
+    "files": [
+      {
+        "name": "kwaikat-text-color.jpg",
+        "variant": "color"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kwaikat",
+    "label": "KwaiKAT",
+    "description": "",
+    "files": [
+      {
+        "name": "kwaikat-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kwaikat.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "kwaipilot",
+    "label": "KwaiPilot",
+    "description": "",
+    "files": [
+      {
+        "name": "kwaipilot-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "kwaipilot-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "kwaipilot.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "lambda",
+    "label": "Lambda",
+    "description": "",
+    "files": [
+      {
+        "name": "lambda-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "lambda.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "langchain",
+    "label": "LangChain",
+    "description": "",
+    "files": [
+      {
+        "name": "langchain-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "langchain-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "langchain.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "langfuse",
+    "label": "Langfuse",
+    "description": "",
+    "files": [
+      {
+        "name": "langfuse-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "langfuse-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "langfuse.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "langgraph",
+    "label": "LangGraph",
+    "description": "",
+    "files": [
+      {
+        "name": "langgraph-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "langgraph-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "langgraph.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "langsmith",
+    "label": "LangSmith",
+    "description": "",
+    "files": [
+      {
+        "name": "langsmith-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "langsmith-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "langsmith.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "leptonai",
+    "label": "Lepton AI",
+    "description": "",
+    "files": [
+      {
+        "name": "leptonai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "leptonai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "leptonai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "lg",
+    "label": "LG",
+    "description": "",
+    "files": [
+      {
+        "name": "lg-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "lg-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "lg.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "lightricks",
+    "label": "Lightricks",
+    "description": "",
+    "files": [
+      {
+        "name": "lightricks-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "lightricks.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "liquid",
+    "label": "Liquid AI",
+    "description": "",
+    "files": [
+      {
+        "name": "liquid-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "liquid.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "livekit",
+    "label": "LiveKit",
+    "description": "",
+    "files": [
+      {
+        "name": "livekit-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "livekit-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "livekit.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "llamaindex",
+    "label": "LlamaIndex",
+    "description": "",
+    "files": [
+      {
+        "name": "llamaindex-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "llamaindex-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "llamaindex.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "llmapi",
+    "label": "LLM API",
+    "description": "",
+    "files": [
+      {
+        "name": "llmapi-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "llmapi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "llmapi.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "llmgateway",
+    "label": "LLM Gateway",
+    "description": "",
+    "files": [
+      {
+        "name": "llmgateway.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "lmstudio",
+    "label": "LM Studio",
+    "description": "",
+    "files": [
+      {
+        "name": "lmstudio-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "lmstudio.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "longcat",
+    "label": "LongCat",
+    "description": "",
+    "files": [
+      {
+        "name": "longcat-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "longcat-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "longcat.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "lovable",
+    "label": "Lovable",
+    "description": "",
+    "files": [
+      {
+        "name": "lovable-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "lovable-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "lovable.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "lovart",
+    "label": "Lovart",
+    "description": "",
+    "files": [
+      {
+        "name": "lovart-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "lovart.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "luma",
+    "label": "Luma",
+    "description": "",
+    "files": [
+      {
+        "name": "luma-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "luma-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "luma.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "magic",
+    "label": "Magic",
+    "description": "",
+    "files": [
+      {
+        "name": "magic-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "magic.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "make",
+    "label": "Make",
+    "description": "",
+    "files": [
+      {
+        "name": "make-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "make-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "make.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "manus",
+    "label": "Manus",
+    "description": "",
+    "files": [
+      {
+        "name": "manus-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "manus.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "mastra",
+    "label": "Mastra",
+    "description": "",
+    "files": [
+      {
+        "name": "mastra-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "mastra.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "mcp",
+    "label": "MCP",
+    "description": "",
+    "files": [
+      {
+        "name": "mcp-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "mcp.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "mcpso",
+    "label": "MCP.so",
+    "description": "",
+    "files": [
+      {
+        "name": "mcpso-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "mcpso-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "mcpso.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "menlo",
+    "label": "Menlo",
+    "description": "",
+    "files": [
+      {
+        "name": "menlo-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "menlo-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "menlo.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "mergegateway",
+    "label": "Merge Gateway",
+    "description": "",
+    "files": [
+      {
+        "name": "mergegateway.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "meshy",
+    "label": "Meshy",
+    "description": "",
+    "files": [
+      {
+        "name": "meshy-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "meshy-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "meshy.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "meta",
+    "label": "Meta",
+    "description": "",
+    "files": [
+      {
+        "name": "meta-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "meta-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "meta-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "meta-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "meta.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "metaai",
+    "label": "Meta AI",
+    "description": "",
+    "files": [
+      {
+        "name": "metaai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "metaai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "metaai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "metagpt",
+    "label": "MetaGPT",
+    "description": "",
+    "files": [
+      {
+        "name": "metagpt-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "metagpt.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "microsoft",
+    "label": "Microsoft",
+    "description": "",
+    "files": [
+      {
+        "name": "microsoft-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "microsoft-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "microsoft.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "midjourney",
+    "label": "Midjourney",
+    "description": "",
+    "files": [
+      {
+        "name": "midjourney-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "midjourney.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "minimax",
+    "label": "MiniMax",
+    "description": "",
+    "files": [
+      {
+        "name": "minimax-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "minimax-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "minimax.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "modal",
+    "label": "Modal",
+    "description": "",
+    "files": [
+      {
+        "name": "modal.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "modelis",
+    "label": "Modelis",
+    "description": "",
+    "files": [
+      {
+        "name": "modelis.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "modelscope",
+    "label": "ModelScope",
+    "description": "",
+    "files": [
+      {
+        "name": "modelscope-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "modelscope-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "modelscope.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "monica",
+    "label": "Monica",
+    "description": "",
+    "files": [
+      {
+        "name": "monica-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "monica-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "monica.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "moonshot",
+    "label": "Moonshot AI",
+    "description": "",
+    "files": [
+      {
+        "name": "moonshot-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "moonshot.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "morph",
+    "label": "Morph",
+    "description": "",
+    "files": [
+      {
+        "name": "morph-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "morph-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "morph.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "moxt",
+    "label": "Moxt",
+    "description": "",
+    "files": [
+      {
+        "name": "moxt-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "moxt-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "moxt.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "myshell",
+    "label": "MyShell",
+    "description": "",
+    "files": [
+      {
+        "name": "myshell-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "myshell-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "myshell.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "n8n",
+    "label": "n8n",
+    "description": "",
+    "files": [
+      {
+        "name": "n8n-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "n8n-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "n8n.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "nanobanana",
+    "label": "Nano Banana",
+    "description": "",
+    "files": [
+      {
+        "name": "nanobanana-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "nanobanana-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "nanobanana.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "nearai",
+    "label": "NEAR AI",
+    "description": "",
+    "files": [
+      {
+        "name": "nearai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "nebius",
+    "label": "Nebius",
+    "description": "",
+    "files": [
+      {
+        "name": "nebius-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "nebius.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "neon",
+    "label": "Neon",
+    "description": "",
+    "files": [
+      {
+        "name": "neon.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "newapi",
+    "label": "New API",
+    "description": "",
+    "files": [
+      {
+        "name": "newapi-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "newapi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "newapi.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "notebooklm",
+    "label": "NotebookLM",
+    "description": "",
+    "files": [
+      {
+        "name": "notebooklm-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "notebooklm.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "notion",
+    "label": "Notion",
+    "description": "",
+    "files": [
+      {
+        "name": "notion-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "notion.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "nousresearch",
+    "label": "Nous Research",
+    "description": "",
+    "files": [
+      {
+        "name": "nousresearch-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "nousresearch.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "nova",
+    "label": "Nova",
+    "description": "",
+    "files": [
+      {
+        "name": "nova-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "nova-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "nova.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "novelai",
+    "label": "NovelAI",
+    "description": "",
+    "files": [
+      {
+        "name": "novelai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "novelai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "novita",
+    "label": "Novita AI",
+    "description": "",
+    "files": [
+      {
+        "name": "novita-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "novita-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "novita.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "nplcloud",
+    "label": "NPL Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "nplcloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "nplcloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "nplcloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "nvidia",
+    "label": "NVIDIA",
+    "description": "",
+    "files": [
+      {
+        "name": "nvidia-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "nvidia-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "nvidia.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "obsidian",
+    "label": "Obsidian",
+    "description": "",
+    "files": [
+      {
+        "name": "obsidian-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "obsidian-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "obsidian.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ollama",
+    "label": "Ollama",
+    "description": "",
+    "files": [
+      {
+        "name": "ollama-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ollama.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "openchat",
+    "label": "OpenChat",
+    "description": "",
+    "files": [
+      {
+        "name": "openchat-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "openchat-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "openchat.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "openclaw",
+    "label": "OpenClaw",
+    "description": "",
+    "files": [
+      {
+        "name": "openclaw-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "openclaw-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "openclaw.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "opencode",
+    "label": "OpenCode",
+    "description": "",
+    "files": [
+      {
+        "name": "opencode-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "opencode.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "openhands",
+    "label": "OpenHands",
+    "description": "",
+    "files": [
+      {
+        "name": "openhands-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "openhands-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "openhands.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "openhuman",
+    "label": "OpenHuman",
+    "description": "",
+    "files": [
+      {
+        "name": "openhuman-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "openhuman.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "openrouter",
+    "label": "OpenRouter",
+    "description": "",
+    "files": [
+      {
+        "name": "openrouter-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "openrouter-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "openrouter.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "openwebui",
+    "label": "Open WebUI",
+    "description": "",
+    "files": [
+      {
+        "name": "openwebui-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "openwebui.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "opper",
+    "label": "Opper",
+    "description": "",
+    "files": [
+      {
+        "name": "opper.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ovhcloud",
+    "label": "OVHcloud",
+    "description": "",
+    "files": [
+      {
+        "name": "ovhcloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "palm",
+    "label": "PaLM",
+    "description": "",
+    "files": [
+      {
+        "name": "palm-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "palm-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "palm.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "parasail",
+    "label": "Parasail",
+    "description": "",
+    "files": [
+      {
+        "name": "parasail-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "parasail.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "phidata",
+    "label": "Phidata",
+    "description": "",
+    "files": [
+      {
+        "name": "phidata-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "phidata-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "phidata.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "phind",
+    "label": "Phind",
+    "description": "",
+    "files": [
+      {
+        "name": "phind-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "phind.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "pika",
+    "label": "Pika",
+    "description": "",
+    "files": [
+      {
+        "name": "pika-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "pika.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "pixverse",
+    "label": "PixVerse",
+    "description": "",
+    "files": [
+      {
+        "name": "pixverse-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "pixverse-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "pixverse.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "player2",
+    "label": "Player2",
+    "description": "",
+    "files": [
+      {
+        "name": "player2-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "player2-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "player2.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "poe",
+    "label": "Poe",
+    "description": "",
+    "files": [
+      {
+        "name": "poe-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "poe-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "poe.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "pollinations",
+    "label": "Pollinations",
+    "description": "",
+    "files": [
+      {
+        "name": "pollinations-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "pollinations.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "poolside",
+    "label": "poolside",
+    "description": "",
+    "files": [
+      {
+        "name": "poolside-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "poolside-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "poolside.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "ppio",
+    "label": "PPIO",
+    "description": "",
+    "files": [
+      {
+        "name": "ppio-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "ppio-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "ppio-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "ppio.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "prunaai",
+    "label": "Pruna AI",
+    "description": "",
+    "files": [
+      {
+        "name": "prunaai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "prunaai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "prunaai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "pydanticai",
+    "label": "Pydantic AI",
+    "description": "",
+    "files": [
+      {
+        "name": "pydanticai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "pydanticai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "pydanticai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "qingyan",
+    "label": "Qingyan",
+    "description": "",
+    "files": [
+      {
+        "name": "qingyan-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "qingyan-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "qingyan.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "qiniu",
+    "label": "Qiniu",
+    "description": "",
+    "files": [
+      {
+        "name": "qiniu-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "qiniu-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "qiniu.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "qoder",
+    "label": "Qoder",
+    "description": "",
+    "files": [
+      {
+        "name": "qoder-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "qoder-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "qoder.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "qvac",
+    "label": "QVAC",
+    "description": "",
+    "files": [
+      {
+        "name": "qvac.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "qwen",
+    "label": "Qwen",
+    "description": "",
+    "files": [
+      {
+        "name": "qwen-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "qwen-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "qwen.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "railway",
+    "label": "Railway",
+    "description": "",
+    "files": [
+      {
+        "name": "railway-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "railway.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "recraft",
+    "label": "Recraft",
+    "description": "",
+    "files": [
+      {
+        "name": "recraft-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "recraft.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "relace",
+    "label": "Relace",
+    "description": "",
+    "files": [
+      {
+        "name": "relace-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "relace.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "replicate",
+    "label": "Replicate",
+    "description": "",
+    "files": [
+      {
+        "name": "replicate-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "replicate-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "replicate.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "reve",
+    "label": "Reve",
+    "description": "",
+    "files": [
+      {
+        "name": "reve-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "reve.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "roocode",
+    "label": "Roo Code",
+    "description": "",
+    "files": [
+      {
+        "name": "roocode-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "roocode.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "rsshub",
+    "label": "RSSHub",
+    "description": "",
+    "files": [
+      {
+        "name": "rsshub-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "rsshub-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "rsshub.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "runway",
+    "label": "Runway",
+    "description": "",
+    "files": [
+      {
+        "name": "runway-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "runway.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "rwkv",
+    "label": "RWKV",
+    "description": "",
+    "files": [
+      {
+        "name": "rwkv-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "rwkv-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "rwkv.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sakana",
+    "label": "Sakana AI",
+    "description": "",
+    "files": [
+      {
+        "name": "sakana.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "saladcloud",
+    "label": "SaladCloud",
+    "description": "",
+    "files": [
+      {
+        "name": "saladcloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sambanova",
+    "label": "SambaNova",
+    "description": "",
+    "files": [
+      {
+        "name": "sambanova-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "sambanova-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "sambanova.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sarvam",
+    "label": "Sarvam AI",
+    "description": "",
+    "files": [
+      {
+        "name": "sarvam.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "scaleway",
+    "label": "Scaleway",
+    "description": "",
+    "files": [
+      {
+        "name": "scaleway.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "scnet",
+    "label": "SCNet",
+    "description": "",
+    "files": [
+      {
+        "name": "scnet.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "search1api",
+    "label": "Search1API",
+    "description": "",
+    "files": [
+      {
+        "name": "search1api-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "search1api-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "search1api.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "searchapi",
+    "label": "SearchAPI",
+    "description": "",
+    "files": [
+      {
+        "name": "searchapi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "searchapi.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "searxng",
+    "label": "SearXNG",
+    "description": "",
+    "files": [
+      {
+        "name": "searxng-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "searxng-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "searxng.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sensenova",
+    "label": "SenseNova",
+    "description": "",
+    "files": [
+      {
+        "name": "sensenova-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "sensenova-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "sensenova-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "sensenova-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "sensenova.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "siliconcloud",
+    "label": "SiliconCloud",
+    "description": "",
+    "files": [
+      {
+        "name": "siliconcloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "siliconcloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "siliconcloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sillytavern",
+    "label": "SillyTavern",
+    "description": "",
+    "files": [
+      {
+        "name": "sillytavern-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "sillytavern-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "sillytavern.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "skywork",
+    "label": "Skywork",
+    "description": "",
+    "files": [
+      {
+        "name": "skywork-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "skywork-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "skywork.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "slock",
+    "label": "Slock",
+    "description": "",
+    "files": [
+      {
+        "name": "slock-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "slock.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "smithery",
+    "label": "Smithery",
+    "description": "",
+    "files": [
+      {
+        "name": "smithery-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "smithery-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "smithery.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "snowflake",
+    "label": "Snowflake",
+    "description": "",
+    "files": [
+      {
+        "name": "snowflake-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "snowflake-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "snowflake.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sophnet",
+    "label": "SophNet",
+    "description": "",
+    "files": [
+      {
+        "name": "sophnet-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "sophnet-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "sophnet.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sora",
+    "label": "Sora",
+    "description": "",
+    "files": [
+      {
+        "name": "sora-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "sora-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "sora.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "spark",
+    "label": "Spark",
+    "description": "",
+    "files": [
+      {
+        "name": "spark-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "spark-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "spark.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "speedai",
+    "label": "SpeedAI",
+    "description": "",
+    "files": [
+      {
+        "name": "speedai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "speedai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "speedai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "stability",
+    "label": "Stability AI",
+    "description": "",
+    "files": [
+      {
+        "name": "stability-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "stability-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "stability-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "stability-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "stability.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "stackit",
+    "label": "STACKIT",
+    "description": "",
+    "files": [
+      {
+        "name": "stackit.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "statecloud",
+    "label": "State Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "statecloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "statecloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "statecloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "stepfun",
+    "label": "StepFun",
+    "description": "",
+    "files": [
+      {
+        "name": "stepfun-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "stepfun-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "stepfun.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "straico",
+    "label": "Straico",
+    "description": "",
+    "files": [
+      {
+        "name": "straico-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "straico-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "straico.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "streamlake",
+    "label": "StreamLake",
+    "description": "",
+    "files": [
+      {
+        "name": "streamlake-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "streamlake-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "streamlake.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "submodel",
+    "label": "SubModel",
+    "description": "",
+    "files": [
+      {
+        "name": "submodel-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "submodel-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "submodel.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "suno",
+    "label": "Suno",
+    "description": "",
+    "files": [
+      {
+        "name": "suno-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "suno.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "sync",
+    "label": "Sync",
+    "description": "",
+    "files": [
+      {
+        "name": "sync-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "sync.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "targon",
+    "label": "Targon",
+    "description": "",
+    "files": [
+      {
+        "name": "targon-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "targon-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "targon.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tavily",
+    "label": "Tavily",
+    "description": "",
+    "files": [
+      {
+        "name": "tavily-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "tavily-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "tavily.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tencent",
+    "label": "Tencent",
+    "description": "",
+    "files": [
+      {
+        "name": "tencent-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "tencent-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "tencent-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "tencent-text-cn.jpg",
+        "variant": "text-cn"
+      },
+      {
+        "name": "tencent-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "tencent.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tencentcloud",
+    "label": "Tencent Cloud",
+    "description": "",
+    "files": [
+      {
+        "name": "tencentcloud-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "tencentcloud-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "tencentcloud.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tensorx",
+    "label": "TensorX",
+    "description": "",
+    "files": [
+      {
+        "name": "tensorx.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "thinkingmachines",
+    "label": "Thinking Machines",
+    "description": "",
+    "files": [
+      {
+        "name": "thinkingmachines.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tiangong",
+    "label": "Tiangong",
+    "description": "",
+    "files": [
+      {
+        "name": "tiangong-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "tiangong-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "tiangong.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tii",
+    "label": "TII",
+    "description": "",
+    "files": [
+      {
+        "name": "tii-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "tii-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "tii.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tinfoil",
+    "label": "Tinfoil",
+    "description": "",
+    "files": [
+      {
+        "name": "tinfoil.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "together",
+    "label": "Together AI",
+    "description": "",
+    "files": [
+      {
+        "name": "together-brand-color.jpg",
+        "variant": "brand-color"
+      },
+      {
+        "name": "together-brand.jpg",
+        "variant": "brand"
+      },
+      {
+        "name": "together-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "together-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "together.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "topazlabs",
+    "label": "Topaz Labs",
+    "description": "",
+    "files": [
+      {
+        "name": "topazlabs-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "topazlabs.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "trae",
+    "label": "Trae",
+    "description": "",
+    "files": [
+      {
+        "name": "trae-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "trae-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "trae.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "tripo",
+    "label": "Tripo",
+    "description": "",
+    "files": [
+      {
+        "name": "tripo-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "tripo-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "tripo.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "turix",
+    "label": "TuriX",
+    "description": "",
+    "files": [
+      {
+        "name": "turix-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "turix.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "udio",
+    "label": "Udio",
+    "description": "",
+    "files": [
+      {
+        "name": "udio-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "udio-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "udio.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "unsloth",
+    "label": "Unsloth",
+    "description": "",
+    "files": [
+      {
+        "name": "unsloth-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "unsloth-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "unsloth.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "unstructured",
+    "label": "Unstructured",
+    "description": "",
+    "files": [
+      {
+        "name": "unstructured-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "unstructured-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "unstructured.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "upstage",
+    "label": "Upstage",
+    "description": "",
+    "files": [
+      {
+        "name": "upstage-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "upstage-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "upstage.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "v0",
+    "label": "v0",
+    "description": "",
+    "files": [
+      {
+        "name": "v0.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "vectorizerai",
+    "label": "Vectorizer.AI",
+    "description": "",
+    "files": [
+      {
+        "name": "vectorizerai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "vectorizerai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "venice",
+    "label": "Venice",
+    "description": "",
+    "files": [
+      {
+        "name": "venice-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "venice-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "venice.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "vercel",
+    "label": "Vercel",
+    "description": "",
+    "files": [
+      {
+        "name": "vercel-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "vercel.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "vertexai",
+    "label": "Vertex AI",
+    "description": "",
+    "files": [
+      {
+        "name": "vertexai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "vertexai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "vertexai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "vidu",
+    "label": "Vidu",
+    "description": "",
+    "files": [
+      {
+        "name": "vidu-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "vidu-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "vidu.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "viggle",
+    "label": "Viggle",
+    "description": "",
+    "files": [
+      {
+        "name": "viggle-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "viggle.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "vllm",
+    "label": "vLLM",
+    "description": "",
+    "files": [
+      {
+        "name": "vllm-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "vllm-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "vllm.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "volcengine",
+    "label": "Volcengine",
+    "description": "",
+    "files": [
+      {
+        "name": "volcengine-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "volcengine-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "volcengine.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "voyage",
+    "label": "Voyage AI",
+    "description": "",
+    "files": [
+      {
+        "name": "voyage-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "voyage-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "voyage.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "vultr",
+    "label": "Vultr",
+    "description": "",
+    "files": [
+      {
+        "name": "vultr.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "wandb",
+    "label": "Weights & Biases",
+    "description": "",
+    "files": [
+      {
+        "name": "wandb.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "wenxin",
+    "label": "Wenxin",
+    "description": "",
+    "files": [
+      {
+        "name": "wenxin-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "wenxin-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "wenxin.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "windsurf",
+    "label": "Windsurf",
+    "description": "",
+    "files": [
+      {
+        "name": "windsurf-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "windsurf.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "workersai",
+    "label": "Workers AI",
+    "description": "",
+    "files": [
+      {
+        "name": "workersai-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "workersai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "workersai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "worldrouter",
+    "label": "WorldRouter",
+    "description": "",
+    "files": [
+      {
+        "name": "worldrouter-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "worldrouter.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "xai",
+    "label": "xAI",
+    "description": "",
+    "files": [
+      {
+        "name": "xai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "xai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "xiaomimimo",
+    "label": "Xiaomi MiMo",
+    "description": "",
+    "files": [
+      {
+        "name": "xiaomimimo-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "xiaomimimo.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "xinference",
+    "label": "Xinference",
+    "description": "",
+    "files": [
+      {
+        "name": "xinference-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "xinference-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "xinference.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "xpay",
+    "label": "XPay",
+    "description": "",
+    "files": [
+      {
+        "name": "xpay-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "xpay-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "xpay.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "xuanyuan",
+    "label": "XuanYuan",
+    "description": "",
+    "files": [
+      {
+        "name": "xuanyuan-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "xuanyuan-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "xuanyuan.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "yandex",
+    "label": "Yandex",
+    "description": "",
+    "files": [
+      {
+        "name": "yandex-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "yandex.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "yi",
+    "label": "Yi",
+    "description": "",
+    "files": [
+      {
+        "name": "yi-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "yi-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "yi.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "youmind",
+    "label": "YouMind",
+    "description": "",
+    "files": [
+      {
+        "name": "youmind-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "youmind.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "yuanbao",
+    "label": "Yuanbao",
+    "description": "",
+    "files": [
+      {
+        "name": "yuanbao-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "yuanbao-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "yuanbao.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "zai",
+    "label": "Z.ai",
+    "description": "",
+    "files": [
+      {
+        "name": "zai-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "zai.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "zapier",
+    "label": "Zapier",
+    "description": "",
+    "files": [
+      {
+        "name": "zapier-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "zapier-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "zapier.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "zeabur",
+    "label": "Zeabur",
+    "description": "",
+    "files": [
+      {
+        "name": "zeabur-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "zeabur-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "zeabur.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "zencoder",
+    "label": "Zencoder",
+    "description": "",
+    "files": [
+      {
+        "name": "zencoder-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "zencoder-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "zencoder.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "zenmux",
+    "label": "ZenMux",
+    "description": "",
+    "files": [
+      {
+        "name": "zenmux-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "zenmux.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "zeroone",
+    "label": "01.AI",
+    "description": "",
+    "files": [
+      {
+        "name": "zeroone-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "zeroone-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "zeroone.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
+    "id": "zhipu",
+    "label": "Zhipu AI",
+    "description": "",
+    "files": [
+      {
+        "name": "zhipu-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "zhipu-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "zhipu.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
   }
 ]
