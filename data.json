@@ -2179,6 +2179,26 @@
     "models": []
   },
   {
+    "id": "daoxe",
+    "label": "DaoXE",
+    "description": "",
+    "files": [
+      {
+        "name": "daoxe-color.jpg",
+        "variant": "color"
+      },
+      {
+        "name": "daoxe-text.jpg",
+        "variant": "text"
+      },
+      {
+        "name": "daoxe.jpg",
+        "variant": "default"
+      }
+    ],
+    "models": []
+  },
+  {
     "id": "databricks",
     "label": "Databricks",
     "description": "",
